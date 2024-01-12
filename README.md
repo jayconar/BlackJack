@@ -11,7 +11,7 @@ This is a Blackjack game, built using the Tkinter library in Python. This projec
 
 ## Project Structure
 
-- **src/:** Contains the source code for the application organized in several modules.
+- **main.py:** The script to be executed to run the game.
 - **command_line_program/cmd_line.py/:** Contains a command line version of the same game.
 - **screenshots/:** Houses screenshots of the game.
 - **art/:** Includes the project icon and all the card images.
